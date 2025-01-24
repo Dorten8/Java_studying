@@ -1,3 +1,5 @@
-public class Printables {
+public interface Printables {
     
+    void print();
+
 }
